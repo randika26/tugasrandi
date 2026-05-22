@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="nav-link text-light" href="/admin/users">Users</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" href="{{ route('products.index') }}">Products</a>
+        </li>
       </ul>
     </div>
   </div>
